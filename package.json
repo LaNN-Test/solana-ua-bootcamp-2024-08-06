@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "solana-training"
+    "url": "https://github.com/LaNN-Test/solana-ua-bootcamp-2024-08-06"
   },
   "keywords": [
     "[\"solama\"",
@@ -22,6 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "@solana-developers/helpers": "^2.4.0",
+    "@solana/spl-token": "^0.4.8",
     "@solana/web3.js": "^1.95.2",
     "esrun": "^3.2.26"
   }
