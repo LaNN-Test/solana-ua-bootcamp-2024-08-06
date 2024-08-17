@@ -1,7 +1,7 @@
 {
   "name": "solana-training",
   "version": "1.0.0",
-  "description": "A tutorial on how to build something like this: \"A decentralized marketplace for creating, buying, and selling NFTs on the Solana platform. \"",
+  "description": "Completion of practical classes from 1st to 4th at solana-ua-bootcamp-2024-08-06.",
   "main": "index.js",
   "scripts": {
     "generate-key": "npx esrun practice-1/generate-keypair.ts",
